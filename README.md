@@ -13,8 +13,11 @@ Cross-Platform Compatibility: Works across all modern browsers and devices.
 
 
 🔧 Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
 
 
