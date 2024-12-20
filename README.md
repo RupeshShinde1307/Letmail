@@ -22,7 +22,11 @@ Database: MySQL
 
 
 📚 Future Enhancements
+
 Add pre-built templates for letters and resumes.
+
 Introduce user authentication for saving drafts.
+
 Enhance AI capabilities for content suggestions.
+
 Add multilingual support for global users.
